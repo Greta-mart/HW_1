@@ -11,5 +11,5 @@
 
     <artifactId>Core</artifactId>
     <packaging>jar</packaging>
-    <name>Core.Core</name>
+    <name>coreTest.Core</name>
 </project>
